@@ -1,0 +1,1 @@
+already given in Q1. Fix by adding additional conjunction of diff(X,Y) to sister_of(X,Y) rule.

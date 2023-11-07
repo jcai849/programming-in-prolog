@@ -1,0 +1,8 @@
+All of the answers may be obtained through asking the question,
+
+?- sister_of(X,Y)
+
+which makes use of both variables uninstantiated.
+X and Y provide the cartesian product of all females sharing the same parents, which given the facts in the database is given as:
+
+X = alice, Y = alice

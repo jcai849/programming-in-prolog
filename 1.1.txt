@@ -1,0 +1,1 @@
+The goal, likes(mary, X), is unable to unify with any unmarked database fact, due to no further terms matching mary. The goal is unable to be satisfied, and returns false.
